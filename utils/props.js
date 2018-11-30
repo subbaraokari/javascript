@@ -1,6 +1,6 @@
 module.exports={
     host:'localhost',
     uname:'root',
-    pwd:'manager',
+    pwd:'root',
     database:'test'
 }
